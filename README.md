@@ -1,10 +1,10 @@
 # Koala species distribution and fertility-reduction model
 <img align="right" src="www/koala.png" alt="koala & joey" width="300" style="margin-top: 20px">
-Combining a point-process model, an ensemble species distribution model, and a demographic model to project koala populations in the Mount Lofty Ranges over the next 25 years to assess the efficiency and cost-effectiveness of fertility-control interventions.<br>
+Combining a point-process model, an ensemble species distribution model, and a demographic model to project koala populations in the <a href="https://en.wikipedia.org/wiki/Mount_Lofty_Ranges">Mount Lofty Ranges</a> over the next 25 years to assess the efficiency and cost-effectiveness of fertility-control interventions.<br>
 <br>
 Accompanies paper:<br>
 <br>
-Saltré, F, KJ Peters, DJ Rogers, J Chadœuf, V Weisbecker, CJA Bradshaw. Balancing overpopulation and conservation targets to optimize koala management strategies. In review<br>
+<a href="https://www.flinders.edu.au/people/frederik.saltre">Saltré, F</a>, <a href="https://scholars.uow.edu.au/katharina-peters">KJ Peters</a>, <a href="https://au.linkedin.com/in/dan-rogers-a11b4392">DJ Rogers</a>, <a href="https://www.researchgate.net/profile/Joel-Chadoeuf">J Chadœuf</a>, <a href="https://www.flinders.edu.au/people/vera.weisbecker">V Weisbecker</a>, <a href="https://www.flinders.edu.au/people/corey.bradshaw">CJA Bradshaw</a>. Balancing overpopulation and conservation targets to optimize koala management strategies. In review<br>
 <br>
 
 ## Scripts
